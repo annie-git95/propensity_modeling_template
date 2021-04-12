@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project builts a classification model using either python libraries or BigQuery ML. The data is taken from Google Analytics database and is using classification modelling to predict propensity to convert. The code is written in a modular way and can be applied to any demand forecasting use case e.g. propensity to subscribe, whether an email is spam or not etc. Just add your own data source and follow the steps in the notebook. 
+This project builts a classification model using either python libraries or BigQuery ML. The data is taken from Google Analytics database and is using classification modeling to predict propensity to convert. The code is written in a modular way and can be applied to any demand forecasting use case e.g. propensity to subscribe, whether an email is spam or not etc. Just add your own data source and follow the steps in the notebook. 
 
 Note: The code outputs interactive graphs of predicted vs. actual numbers that are not displayed on github. To fully visualize the results, please run the code on your environment.
 
